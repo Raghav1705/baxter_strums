@@ -1,0 +1,2 @@
+forward_kinematics:joint_ctrl
+-DCATKIN_DEVEL_PREFIX=/home/cc/ee106a/fl21/class/ee106a-aei/ros_workspaces/lab3/devel -DCMAKE_INSTALL_PREFIX=/home/cc/ee106a/fl21/class/ee106a-aei/ros_workspaces/lab3/install -G Unix Makefiles
